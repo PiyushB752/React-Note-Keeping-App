@@ -1,0 +1,21 @@
+body{
+    color: white;
+    background-color: #3868d6;
+}
+.container{
+    display: flex;
+    gap: 120px;
+    padding: 20px;
+}
+textarea{
+    background-color: #3868d6;
+    border: black 2px solid;
+    height: 450px;
+    width: 700px;
+}
+.output-text{
+    background-color: #464646;
+    height: 550px;
+    width: 600px;
+    box-shadow: 2px 2px 12px 0px black;
+}
